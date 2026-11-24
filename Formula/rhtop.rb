@@ -2,13 +2,13 @@
 class Rhtop < Formula
   desc "Robinhood MCP terminal dashboard"
   homepage "https://github.com/formaggio-software/rhtop"
-  version "1.1.3"
+  version "1.1.5"
   license :cannot_represent
 
   on_linux do
     on_intel do
-      url "https://github.com/formaggio-software/rhtop/releases/download/v1.1.3/rhtop-v1.1.3-linux-amd64.tar.gz"
-      sha256 "94a80255e1b1d344261c8a5f991fd8625f09356b69977263bf25beaf84300ad9"
+      url "https://github.com/formaggio-software/rhtop/releases/download/v1.1.5/rhtop-v1.1.5-linux-amd64.tar.gz"
+      sha256 "637e20c435eea7f1d7fba2a61d81c401ad0530f2982ef78487ce1e6cf86fda5b"
     end
   end
 
